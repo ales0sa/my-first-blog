@@ -3,6 +3,10 @@
         font-family: 'Lobster';
     }
 	
+	.comment {
+    margin: 20px 0px 20px 20px;
+	}
+	
 	.page-header {
         background-color: #ff9400;
         margin-top: 0;
